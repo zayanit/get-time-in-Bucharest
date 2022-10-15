@@ -7,3 +7,4 @@
 3. then press the search button 
 4. and read the current time 
 5. and put it into a variable
+6. print the currunt time in the output
